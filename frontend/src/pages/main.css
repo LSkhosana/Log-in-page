@@ -1,0 +1,55 @@
+body{
+    background-color: gray;
+}
+
+.register{
+    height: 600px;
+    width: 1100px;
+    background-color: white;
+    display: flex;
+    border-radius: 60px;
+    margin-left: 20%;
+
+}
+
+.head p{
+    margin-top: -25px;
+}
+
+.head h1{
+    font-size: 36px;
+}
+
+.forms{
+    width: 50%;
+    text-align: center;
+}
+
+.form-l input{
+    height: 40px;
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid #2E2E2E;
+}
+
+#register-btn{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 50%;
+    border-radius: 30px;
+}
+.images img{
+    height: 600px;
+    width: 100%;
+    border-top-right-radius:60px ;
+    border-bottom-right-radius:60px ;
+    
+
+
+}
+
+.check{
+    display:flex;
+}
