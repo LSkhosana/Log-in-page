@@ -1,6 +1,11 @@
+// import Login from "./Login"
+import Signup from "./Signup"
 
 export const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      {/* <Login/> */}
+      <Signup/>
+    </div>
   )
 }
